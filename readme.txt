@@ -6,3 +6,4 @@ Git push.
 Creating a new branch is quick and simple.
 Git megre.
 Gig issue 101.
+Git stash.
